@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Related Articles: About | Book of Jack]]></title>
+  <link href="http://www.bookofjack.org/tags/about/atom.xml" rel="self"/>
+  <link href="http://www.bookofjack.org/"/>
+  <updated>2014-02-01T15:52:26-07:00</updated>
+  <id>http://www.bookofjack.org/</id>
+  <author>
+    <name><![CDATA[Mark Schipper]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction]]></title>
+    <link href="http://www.bookofjack.org/articles/introduction"/>
+    <updated>2012-10-14T18:30:00-06:00</updated>
+    <id>http://www.bookofjack.org/articles/introduction</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Preface]]></title>
+    <link href="http://www.bookofjack.org/articles/preface"/>
+    <updated>2012-09-23T18:30:00-06:00</updated>
+    <id>http://www.bookofjack.org/articles/preface</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Foreword]]></title>
+    <link href="http://www.bookofjack.org/articles/foreword"/>
+    <updated>2012-09-02T18:30:00-06:00</updated>
+    <id>http://www.bookofjack.org/articles/foreword</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

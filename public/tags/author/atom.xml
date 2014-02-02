@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Related Articles: Author | Book of Jack]]></title>
+  <link href="http://www.bookofjack.org/tags/author/atom.xml" rel="self"/>
+  <link href="http://www.bookofjack.org/"/>
+  <updated>2014-02-01T15:52:26-07:00</updated>
+  <id>http://www.bookofjack.org/</id>
+  <author>
+    <name><![CDATA[Mark Schipper]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Katwijk aan Zee]]></title>
+    <link href="http://www.bookofjack.org/articles/katwijk-aan-zee"/>
+    <updated>2012-11-25T18:30:00-07:00</updated>
+    <id>http://www.bookofjack.org/articles/katwijk-aan-zee</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Caesar Conquers Gaul]]></title>
+    <link href="http://www.bookofjack.org/articles/caesar-conquers-gual"/>
+    <updated>2012-11-04T18:30:00-07:00</updated>
+    <id>http://www.bookofjack.org/articles/caesar-conquers-gual</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Foreword]]></title>
+    <link href="http://www.bookofjack.org/articles/foreword"/>
+    <updated>2012-09-02T18:30:00-06:00</updated>
+    <id>http://www.bookofjack.org/articles/foreword</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

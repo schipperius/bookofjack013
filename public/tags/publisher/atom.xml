@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Related Articles: Publisher | Book of Jack]]></title>
+  <link href="http://www.bookofjack.org/tags/publisher/atom.xml" rel="self"/>
+  <link href="http://www.bookofjack.org/"/>
+  <updated>2014-02-01T15:52:26-07:00</updated>
+  <id>http://www.bookofjack.org/</id>
+  <author>
+    <name><![CDATA[Mark Schipper]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Copyright]]></title>
+    <link href="http://www.bookofjack.org/articles/copyright"/>
+    <updated>2013-01-06T18:30:00-07:00</updated>
+    <id>http://www.bookofjack.org/articles/copyright</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Colophon]]></title>
+    <link href="http://www.bookofjack.org/articles/colophon"/>
+    <updated>2012-12-16T18:30:00-07:00</updated>
+    <id>http://www.bookofjack.org/articles/colophon</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

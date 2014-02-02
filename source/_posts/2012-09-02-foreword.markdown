@@ -1,0 +1,63 @@
+---
+
+number: 1
+title: "Foreword"
+date: 2012-09-02 18:30
+
+published: true
+sidebar: false
+comments: true
+layout: post-1
+
+categories: [Front Matter]
+tags: [Author, About]
+
+mapping:
+ latitude:
+ longitude:
+
+
+#----- Article Introduction -----#
+#----- Image -----#
+img1-fnref: fnref:1.1
+img1-fn: fn:1.1
+
+img1-title: Foreword
+img1-alt: Foreword
+
+img1-s-lan: /images/articles/1-foreword/jesus-cites-wife-200x150.jpg
+img1-m-lan: /images/articles/1-foreword/jesus-cites-wife-300x225.jpg
+img1-l-lan: /images/articles/1-foreword/jesus-cites-wife-1024x768.jpg
+img1-s-por:
+img1-m-por:	
+img1-l-por:
+
+- {img1-s-wd-lan: 200, img1-s-ht-lan: 150, img1-m-wd-lan: 300, img1-m-ht-lan: 225, img1-l-wd-lan: 1024, img1-l-ht-lan: 768, img1-s-wd-por: 150, img1-s-ht-por: 200, img1-m-wd-por: 225, img1-m-ht-por: 300, img1-l-wd-por: 768, img1-l-ht-por: 1024}
+
+
+
+
+#----- Copy -----#
+int1-fnref: fnref:1.2
+int1-fn: fn:1.2
+
+int1: Foreword to the Book of Jack still needs to be written. Sigh.
+
+int1-cap: F
+int1-class: f
+int1-letter: /images/letters/letter_f.png
+int1-img-wd: 83
+int1-img-ht: 83
+
+int1-lin1: oreword to the Book of Jack
+int1-lin2: still needs to be written. Sigh.
+
+
+
+
+#----- Article Footnotes -----#
+fn1: <li id="fn:1.1">This modified image is from a <a href="http://www.bbc.co.uk/news/world-europe-19645273" title="BBC News">BBC News</a> article, titled, 'Wife of Jesus'. Retrieved September 19, 2012. For those who can read this ancient papyrus, it suggests that Jesus had a wife. I suspect his wife was <a href="http://en.wikipedia.org/wiki/Mary_Magdalene">Mary Magdalene</a>. There have been many suggestions of a <a href="http://en.wikipedia.org/wiki/Jesus_bloodline">Jesus Bloodline</a> but I would like to push the hypothesis a bit further. You see, I think <a href="http://en.wikipedia.org/wiki/Diana,_Princess_of_Wales">Princess Diana</a> was the matrilineal descendant of Mary Magdalene, which means of course, that the Princes William and Harry are the living descendants of Mary and Jesus. I know this sounds absurd, but so do a lot of things before they become accepted as the truth. Today, acceptance usually involves science, and I believe the <a href="https://genographic.nationalgeographic.com/about/">Genographic Project</a> from the <a href="http://www.nationalgeographic.com/">National Geographic Society</a> will soon shed some light on this topic. <a href="#fnref:1.1">&#8617;</a></li>
+
+fn2: <li id="fn:1.2">I'm not sure if this will ever be written, I will just have to be patient. <a href="#fnref:1.2">&#8617;</a></li>
+
+---
